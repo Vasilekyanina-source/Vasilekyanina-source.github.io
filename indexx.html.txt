@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>ОГЭ по информатике</title>
+</head>
+<body>
+    <h1>Курс по подготовке к ОГЭ</h1>
+    <p>Выберите урок:</p>
+    <ul>
+        <li><a href="урок1/index1.html">Урок 1: Тема первая</a></li>
+        <li><a href="урок2/index2.html">Урок 2: Тема вторая</a></li>
+        <li><a href="урок3/index3.html">Урок 3: Тема третья</a></li>
+	<li><a href="урок4/index4.html">Урок 3: Тема третья</a></li>
+    </ul>
+</body>
+</html>
